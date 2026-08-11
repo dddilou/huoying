@@ -1,0 +1,10 @@
+# Keep generated source PNGs locally; the optimized WebP is deployed.
+assets/ninja-hero-v2.png
+assets/ninja-sunset.png
+
+# Local visual checks
+qa-*.png
+.qa-*.cjs
+
+# Generated production build
+dist/
