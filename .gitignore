@@ -1,10 +1,10 @@
-# Keep generated source PNGs locally; the optimized WebP is deployed.
-assets/ninja-hero-v2.png
-assets/ninja-sunset.png
+# Operating system and editor files
+.DS_Store
+.idea/
+.vscode/
+.vercel/
 
-# Local visual checks
+# Local visual checks and temporary files
 qa-*.png
 .qa-*.cjs
-
-# Generated production build
-dist/
+*.log
