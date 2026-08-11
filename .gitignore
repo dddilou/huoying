@@ -8,3 +8,4 @@
 qa-*.png
 .qa-*.cjs
 *.log
+.vercel
